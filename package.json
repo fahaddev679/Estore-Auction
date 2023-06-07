@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@openzeppelin/test-helpers": "^0.5.16",
+    "web3": "^1.10.0"
+  }
+}
